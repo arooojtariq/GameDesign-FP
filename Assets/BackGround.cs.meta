@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 94ea40c2826f6bd46aa72582a504b2f2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreScript: {fileID: 6012361756476995845, guid: 7e6068b632291dc46ab155af90a9e5cd, type: 3}
+  - background: {instanceID: 0}
+  - background30: {fileID: 21300000, guid: f90d6ffbe023d4a4c97125831e1881b2, type: 3}
+  - background60: {fileID: 21300000, guid: bd09f98067373c9408a2271438e52c21, type: 3}
+  - background90: {fileID: 21300000, guid: bd09f98067373c9408a2271438e52c21, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
